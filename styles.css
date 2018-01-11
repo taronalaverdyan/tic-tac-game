@@ -1,0 +1,25 @@
+#tic-tac-table {
+  width: 600px;
+  height: 600px;
+  margin: 0 auto;
+}
+
+#tic-tac-table td {
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  font-size: 150px;
+  padding: 0;
+}
+
+.x {
+  color: blue;
+}
+
+.o {
+  color: red;
+}
+
+h2 {
+  text-align: center;
+}
